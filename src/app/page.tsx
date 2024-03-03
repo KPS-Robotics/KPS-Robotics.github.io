@@ -8,7 +8,7 @@ export default function Home() {
                   <h1 className="text-yellow-500">KPS</h1>
                      <h1>-</h1>
                   <h1 className="text-green-500">Robotics</h1>
-                <h1> come is coming soon</h1>
+                <h1>is coming soon</h1>
 
               </div> 
 
